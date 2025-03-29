@@ -1,0 +1,11 @@
+# Thư mục cần bỏ qua
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+.vs/
+.vsconfig
+*.csproj
+*.sln
+
